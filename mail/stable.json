@@ -1,11 +1,11 @@
 {
   "app": "SIGORIX-Mail",
   "channel": "stable",
-  "version": "0.4.1",
-  "url": "https://github.com/sanverdiahmet2000-ship-it/SIGORIX-Updates/releases/download/mail-v0.4.1/SIGORIX-Mail-Setup-0.4.1.zip",
-  "sha256": "7e452dbb89aed5e0ae553239ec745f8588e9afd8d58b25b3fd9d80c421ef8bed",
-  "installed_exe_sha256": "230570169200b215e2a08f3e99711598fe54da9ad4c06d4e47c1e607d47361b9",
-  "installer": "SIGORIX-Mail-Kurulum-0.4.1.exe",
-  "notes": "SIGORIX Mail 0.4.1: Hızlı kurumsal posta görünümü, 250+ şube klasörü, sunucuda arama, çoklu seçim, toplu işlemler, Yandex ve özel IMAP/SMTP hesapları. Daha güvenilir güncelleme bildirimi.",
-  "signature": "HWlpgRhS8jdzUOQFkCKUckegdNKAThfzJN6UqKCYrn4yo7DjNY/24o3ql0wFq7p+FL+UUhxUd1Pkz79UUYdBDg=="
+  "version": "0.5.0",
+  "url": "https://github.com/sanverdiahmet2000-ship-it/SIGORIX-Updates/releases/download/mail-v0.5.0/SIGORIX-Mail-Setup-0.5.0.zip",
+  "sha256": "3340a53ff680a445e16af491acdedac1d280641b667d147a23104398cce261fe",
+  "installed_exe_sha256": "7a97eb856dbe09e9375c268321384121183a218b2d97a3707f7a52b909f99f69",
+  "installer": "SIGORIX-Mail-Kurulum-0.5.0.exe",
+  "notes": "SIGORIX Mail 0.5.0: Yeni Qt masaüstü arayüzü, modern koyu/açık tema, yönlendirmeli hesap kurulum ekranı, hiyerarşik klasörler, kompakt posta listesi ve güvenli güncellemeler. Mevcut e-postalar korunur.",
+  "signature": "h7dmkvLUj7a7T2cBY/jK5OIQBp7qFL32zwyAUnqWKFjWf7o9tmsLZuI0BA5+wIPJrtqijNZ0ecxuGR/+ipXlCA=="
 }
