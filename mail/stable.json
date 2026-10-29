@@ -1,11 +1,11 @@
 {
   "app": "SIGORIX-Mail",
   "channel": "stable",
-  "version": "0.5.2",
-  "url": "https://github.com/sanverdiahmet2000-ship-it/SIGORIX-Updates/releases/download/mail-v0.5.2/SIGORIX-Mail-Setup-0.5.2.zip",
-  "sha256": "301a0238955173dd97950a2d9da65c9fb7fabc6927ed915747eeee66e605cd5a",
-  "installed_exe_sha256": "619b83555ba296223ab0ec449eebaa3ede769a7694faf22bc47bb8ec60f3145f",
-  "installer": "SIGORIX-Mail-Kurulum-0.5.2.exe",
-  "notes": "SIGORIX Mail 0.5.2: Yandex IMAP giriş hataları için anlaşılır Türkçe yönlendirme, resmî Yandex ayar ve uygulama şifresi bağlantıları, sunucu hata kimliklerinin gizlenmesi; 0.5.1 güvenlik korumaları sürüyor.",
-  "signature": "MN3N6niCIGzpyMmxXoSicOUBRYC27nHTHRYtx5xLUh3vm40B/7e+mnYfWge14k/HYkLHsOaGZHqHfW1Ivd33Cw=="
+  "version": "0.6.0",
+  "url": "https://github.com/sanverdiahmet2000-ship-it/SIGORIX-Updates/releases/download/mail-v0.6.0/SIGORIX-Mail-Setup-0.6.0.zip",
+  "sha256": "952c8cd425af705f5ece55e89431944d5910fe93112a419b18f3bb8493b327f4",
+  "installed_exe_sha256": "c0cdda1ae2d2f68c16c489721a6a1b51d8705f8d34cb2acbb5db006455aae829",
+  "installer": "SIGORIX-Mail-Kurulum-0.6.0.exe",
+  "notes": "SIGORIX Mail 0.6.0: Hesap Bağlantı Merkezi yenilendi. Bağımsız TLS testi, IMAP giriş doğrulaması, klasör erişimi ve açıklayıcı hesap tanı ekranı. Başarısız girişler hesabı kaydetmez. Veri koruma önlemleri sürüyor.",
+  "signature": "5HSZpMueSGRmtJEuPNXGiPQiCqNv4tjKKfBzl/JO5d9mk9pGl6A9Sq2cwYhMfhPgR6XdU2ToZuKOoZHPwU59Dg=="
 }
