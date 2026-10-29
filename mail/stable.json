@@ -1,11 +1,11 @@
 {
   "app": "SIGORIX-Mail",
   "channel": "stable",
-  "version": "0.5.0",
-  "url": "https://github.com/sanverdiahmet2000-ship-it/SIGORIX-Updates/releases/download/mail-v0.5.0/SIGORIX-Mail-Setup-0.5.0.zip",
-  "sha256": "3340a53ff680a445e16af491acdedac1d280641b667d147a23104398cce261fe",
-  "installed_exe_sha256": "7a97eb856dbe09e9375c268321384121183a218b2d97a3707f7a52b909f99f69",
-  "installer": "SIGORIX-Mail-Kurulum-0.5.0.exe",
-  "notes": "SIGORIX Mail 0.5.0: Yeni Qt masaüstü arayüzü, modern koyu/açık tema, yönlendirmeli hesap kurulum ekranı, hiyerarşik klasörler, kompakt posta listesi ve güvenli güncellemeler. Mevcut e-postalar korunur.",
-  "signature": "h7dmkvLUj7a7T2cBY/jK5OIQBp7qFL32zwyAUnqWKFjWf7o9tmsLZuI0BA5+wIPJrtqijNZ0ecxuGR/+ipXlCA=="
+  "version": "0.5.1",
+  "url": "https://github.com/sanverdiahmet2000-ship-it/SIGORIX-Updates/releases/download/mail-v0.5.1/SIGORIX-Mail-Setup-0.5.1.zip",
+  "sha256": "0fbb879fb7be8440456776ea6c0c8e8a82ab64225be9079a9db1289f7ebddfe1",
+  "installed_exe_sha256": "b49220c33ceee20ecc963db1622614a593f0bb290e1e480b8fb73858488f9877",
+  "installer": "SIGORIX-Mail-Kurulum-0.5.1.exe",
+  "notes": "SIGORIX Mail 0.5.1: Eklerin güvenli kaydı, zararlı dosya uzantılarının engellenmesi, IMAP öncesi mesaj boyutu doğrulaması, MIME sınırları, doğrulanmış TLS ve önceki 0.5.0 kurumsal arayüzünün korunması.",
+  "signature": "m2y09pz90KrbkU/qSsOZn45x3Mh/yqEDlHlZciCSEKWpQey6pIJ3S5+wRecmMnKpTEJ2h8PL6d0VVHlCRpM6DA=="
 }
