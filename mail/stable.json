@@ -1,11 +1,11 @@
 {
   "app": "SIGORIX-Mail",
   "channel": "stable",
-  "version": "0.5.1",
-  "url": "https://github.com/sanverdiahmet2000-ship-it/SIGORIX-Updates/releases/download/mail-v0.5.1/SIGORIX-Mail-Setup-0.5.1.zip",
-  "sha256": "0fbb879fb7be8440456776ea6c0c8e8a82ab64225be9079a9db1289f7ebddfe1",
-  "installed_exe_sha256": "b49220c33ceee20ecc963db1622614a593f0bb290e1e480b8fb73858488f9877",
-  "installer": "SIGORIX-Mail-Kurulum-0.5.1.exe",
-  "notes": "SIGORIX Mail 0.5.1: Eklerin güvenli kaydı, zararlı dosya uzantılarının engellenmesi, IMAP öncesi mesaj boyutu doğrulaması, MIME sınırları, doğrulanmış TLS ve önceki 0.5.0 kurumsal arayüzünün korunması.",
-  "signature": "m2y09pz90KrbkU/qSsOZn45x3Mh/yqEDlHlZciCSEKWpQey6pIJ3S5+wRecmMnKpTEJ2h8PL6d0VVHlCRpM6DA=="
+  "version": "0.5.2",
+  "url": "https://github.com/sanverdiahmet2000-ship-it/SIGORIX-Updates/releases/download/mail-v0.5.2/SIGORIX-Mail-Setup-0.5.2.zip",
+  "sha256": "301a0238955173dd97950a2d9da65c9fb7fabc6927ed915747eeee66e605cd5a",
+  "installed_exe_sha256": "619b83555ba296223ab0ec449eebaa3ede769a7694faf22bc47bb8ec60f3145f",
+  "installer": "SIGORIX-Mail-Kurulum-0.5.2.exe",
+  "notes": "SIGORIX Mail 0.5.2: Yandex IMAP giriş hataları için anlaşılır Türkçe yönlendirme, resmî Yandex ayar ve uygulama şifresi bağlantıları, sunucu hata kimliklerinin gizlenmesi; 0.5.1 güvenlik korumaları sürüyor.",
+  "signature": "MN3N6niCIGzpyMmxXoSicOUBRYC27nHTHRYtx5xLUh3vm40B/7e+mnYfWge14k/HYkLHsOaGZHqHfW1Ivd33Cw=="
 }
