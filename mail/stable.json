@@ -1,11 +1,11 @@
 {
   "app": "SIGORIX-Mail",
   "channel": "stable",
-  "version": "0.3.0",
-  "url": "https://github.com/sanverdiahmet2000-ship-it/SIGORIX-Updates/releases/download/mail-v0.3.0/SIGORIX-Mail-Setup-0.3.0.zip",
-  "sha256": "8d6e992adfc9ea5e29ab1b6acb497532c3415ab46c460664654ac37c97eb485b",
-  "installed_exe_sha256": "545f6eec217c7c15ebcf2c552e1f3e4584f01d70fa106aaa64dcd37f83291484",
-  "installer": "SIGORIX-Mail-Kurulum-0.3.0.exe",
-  "notes": "SIGORIX Mail 0.3.0: Uygulama içinden güvenli sürüm kontrolü ve tek tıkla güncelleme. Mevcut e-posta hesaplarınız korunur.",
-  "signature": "UCXUIC58xXkP2JIcuhbfmGuGYtXOh6YfMYSvZcmCIKdH/hFljmm95LW/kBLSu/N252LI5wLdseKrYXlOP2nnDw=="
+  "version": "0.3.1",
+  "url": "https://github.com/sanverdiahmet2000-ship-it/SIGORIX-Updates/releases/download/mail-v0.3.1/SIGORIX-Mail-Setup-0.3.1.zip",
+  "sha256": "38bd0dbf781341297db0fc4e15ff19ae43e361dfe2df4d88bc243689347405bb",
+  "installed_exe_sha256": "958c3819431b16ea09cc5bad5524cd64be53aa3a5eeeb7f4b03a4bce95da5646",
+  "installer": "SIGORIX-Mail-Kurulum-0.3.1.exe",
+  "notes": "SIGORIX Mail 0.3.1: Uygulama içinden güvenli sürüm kontrolü ve tek tıkla güncelleme. Mevcut e-posta hesaplarınız korunur.",
+  "signature": "d8eGo9cpLbUHXFwE/3Jy9IQ/PTpoLxnRC2ecGWBV9Ep0CfyZpRE717tQNdQ3lHa3F3+5IrN5zOwAp9IS34XZBQ=="
 }
