@@ -1,11 +1,11 @@
 {
   "app": "SIGORIX-Mail",
   "channel": "stable",
-  "version": "0.6.0",
-  "url": "https://github.com/sanverdiahmet2000-ship-it/SIGORIX-Updates/releases/download/mail-v0.6.0/SIGORIX-Mail-Setup-0.6.0.zip",
-  "sha256": "952c8cd425af705f5ece55e89431944d5910fe93112a419b18f3bb8493b327f4",
-  "installed_exe_sha256": "c0cdda1ae2d2f68c16c489721a6a1b51d8705f8d34cb2acbb5db006455aae829",
-  "installer": "SIGORIX-Mail-Kurulum-0.6.0.exe",
-  "notes": "SIGORIX Mail 0.6.0: Hesap Bağlantı Merkezi yenilendi. Bağımsız TLS testi, IMAP giriş doğrulaması, klasör erişimi ve açıklayıcı hesap tanı ekranı. Başarısız girişler hesabı kaydetmez. Veri koruma önlemleri sürüyor.",
-  "signature": "5HSZpMueSGRmtJEuPNXGiPQiCqNv4tjKKfBzl/JO5d9mk9pGl6A9Sq2cwYhMfhPgR6XdU2ToZuKOoZHPwU59Dg=="
+  "version": "0.6.1",
+  "url": "https://github.com/sanverdiahmet2000-ship-it/SIGORIX-Updates/releases/download/mail-v0.6.1/SIGORIX-Mail-Setup-0.6.1.zip",
+  "sha256": "6e6d05a773a43e6c2b36a610b02334cb8f27477d89572a7a83eca47346869f73",
+  "installed_exe_sha256": "bd6291c11999fba4a006c96c3d2ad6e02f9b8ca63b37e1eb9304256a509d612a",
+  "installer": "SIGORIX-Mail-Kurulum-0.6.1.exe",
+  "notes": "SIGORIX Mail 0.6.1: Türk Telekom ve Yandex sağlayıcılarını ayırır. MX kayıtlarını salt okunur kontrol eder; yanlış sağlayıcıya şifre göndermez. Türk Telekom IMAP/SMTP TLS sunucuları tanımlıdır. Önceki hesaplar ve e-postalar korunur.",
+  "signature": "IP4Obp1oFSqODpeDOdg8EaAlBnghcuHwnEKwzAxiYSadH3vJ0L9UrVogTn4E6zAQ5S4O3F+rpteeanw4Y9g7AQ=="
 }
