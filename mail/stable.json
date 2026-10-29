@@ -1,0 +1,11 @@
+{
+  "app": "SIGORIX-Mail",
+  "channel": "stable",
+  "version": "0.3.0",
+  "url": "https://github.com/sanverdiahmet2000-ship-it/SIGORIX-Updates/releases/download/mail-v0.3.0/SIGORIX-Mail-Setup-0.3.0.zip",
+  "sha256": "8d6e992adfc9ea5e29ab1b6acb497532c3415ab46c460664654ac37c97eb485b",
+  "installed_exe_sha256": "545f6eec217c7c15ebcf2c552e1f3e4584f01d70fa106aaa64dcd37f83291484",
+  "installer": "SIGORIX-Mail-Kurulum-0.3.0.exe",
+  "notes": "SIGORIX Mail 0.3.0: Uygulama içinden güvenli sürüm kontrolü ve tek tıkla güncelleme. Mevcut e-posta hesaplarınız korunur.",
+  "signature": "UCXUIC58xXkP2JIcuhbfmGuGYtXOh6YfMYSvZcmCIKdH/hFljmm95LW/kBLSu/N252LI5wLdseKrYXlOP2nnDw=="
+}
