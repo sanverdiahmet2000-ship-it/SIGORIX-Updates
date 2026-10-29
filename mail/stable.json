@@ -1,11 +1,11 @@
 {
   "app": "SIGORIX-Mail",
   "channel": "stable",
-  "version": "0.3.1",
-  "url": "https://github.com/sanverdiahmet2000-ship-it/SIGORIX-Updates/releases/download/mail-v0.3.1/SIGORIX-Mail-Setup-0.3.1.zip",
-  "sha256": "38bd0dbf781341297db0fc4e15ff19ae43e361dfe2df4d88bc243689347405bb",
-  "installed_exe_sha256": "958c3819431b16ea09cc5bad5524cd64be53aa3a5eeeb7f4b03a4bce95da5646",
-  "installer": "SIGORIX-Mail-Kurulum-0.3.1.exe",
-  "notes": "SIGORIX Mail 0.3.1: Uygulama içinden güvenli sürüm kontrolü ve tek tıkla güncelleme. Mevcut e-posta hesaplarınız korunur.",
-  "signature": "d8eGo9cpLbUHXFwE/3Jy9IQ/PTpoLxnRC2ecGWBV9Ep0CfyZpRE717tQNdQ3lHa3F3+5IrN5zOwAp9IS34XZBQ=="
+  "version": "0.4.0",
+  "url": "https://github.com/sanverdiahmet2000-ship-it/SIGORIX-Updates/releases/download/mail-v0.4.0/SIGORIX-Mail-Setup-0.4.0.zip",
+  "sha256": "d8f2cf6613ef251ef610c9fd6919e038d7f38f9e4aa24300de06698e17d86874",
+  "installed_exe_sha256": "226b0caeca4f2811c9d42396d0cac70fc928bb5d9d7dbc71d00ff0971b2c2660",
+  "installer": "SIGORIX-Mail-Kurulum-0.4.0.exe",
+  "notes": "0.4.0: Kompakt posta listesi, 250+ şube klasörü gezgini, sunucuda arama, toplu işaretleme, güvenli taşıma ve farklı IMAP/SMTP hesapları. Mevcut yazışmalar korunur.",
+  "signature": "YCari01R43c6qQ6rVHHPIuSy6TXbQr7bxudRNSSHIvYS6ncBCGwRu7/XHPTMHgsJfNkW9tqS1rh/3cC8DMmkCA=="
 }
