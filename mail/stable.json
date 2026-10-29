@@ -1,11 +1,11 @@
 {
   "app": "SIGORIX-Mail",
   "channel": "stable",
-  "version": "0.6.2",
-  "url": "https://github.com/sanverdiahmet2000-ship-it/SIGORIX-Updates/releases/download/mail-v0.6.2/SIGORIX-Mail-Setup-0.6.2.zip",
-  "sha256": "6faf5c9d6a87bb9b9b74c04db2bcd0594b9de46cd683efc1d2eb71a7cac2d09f",
-  "installed_exe_sha256": "bc706514dc20fad5f3926842fa87f7ec6169284f62d5f8d34e9c2da720bb3497",
-  "installer": "SIGORIX-Mail-Kurulum-0.6.2.exe",
-  "notes": "SIGORIX Mail 0.6.2: Eski posta istemcisinin sürümü ile SIGORIX Mail NEXT geliştirme sürümü net ayrıldı. NEXT ön izleme başlatıcısı eklendi. Bağımsız posta sunucusu henüz hazır değildir. Önceki hesaplar ve e-postalar korunur.",
-  "signature": "e5LaprCU2LqRGgifSuWShLAdh/5DND0DDEE58RBRjg5FEWf/u71xsGV1ZleNXQRqkkP751mcabgbqBC62RJfBg=="
+  "version": "0.6.3",
+  "url": "https://github.com/sanverdiahmet2000-ship-it/SIGORIX-Updates/releases/download/mail-v0.6.3/SIGORIX-Mail-Setup-0.6.3.zip",
+  "sha256": "390605bf0a6fe770258e140cf6a26745a0a28a9909f0c494dc4de5bde015664a",
+  "installed_exe_sha256": "e06cb4d6229be7006af2bb62deb3bd624d980643728635fc4ed262e18c0820ac",
+  "installer": "SIGORIX-Mail-Kurulum-0.6.3.exe",
+  "notes": "SIGORIX Mail 0.6.3: NEXT ön izlemesi ve eski e-posta istemcisi tek Windows kurulum paketinde; uygulama içi başlatıcı ve ayrı kısayol. Güncelleme yardımcısı, kurulum ve sürüm kontrolü dahil. Bağımsız SMTP/IMAP posta sunucusu henüz kurulmadı; mevcut yazışmalar korunur.",
+  "signature": "+706S+r4oZ8vznJamvd99w9JE1j41OnoOE/BxsPLMm+OKqBdqEpGE4tZhQ9c/5UnMNfjLQJkNOt8cwciVYpSCg=="
 }
