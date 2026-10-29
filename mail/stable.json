@@ -1,11 +1,11 @@
 {
   "app": "SIGORIX-Mail",
   "channel": "stable",
-  "version": "0.6.1",
-  "url": "https://github.com/sanverdiahmet2000-ship-it/SIGORIX-Updates/releases/download/mail-v0.6.1/SIGORIX-Mail-Setup-0.6.1.zip",
-  "sha256": "6e6d05a773a43e6c2b36a610b02334cb8f27477d89572a7a83eca47346869f73",
-  "installed_exe_sha256": "bd6291c11999fba4a006c96c3d2ad6e02f9b8ca63b37e1eb9304256a509d612a",
-  "installer": "SIGORIX-Mail-Kurulum-0.6.1.exe",
-  "notes": "SIGORIX Mail 0.6.1: Türk Telekom ve Yandex sağlayıcılarını ayırır. MX kayıtlarını salt okunur kontrol eder; yanlış sağlayıcıya şifre göndermez. Türk Telekom IMAP/SMTP TLS sunucuları tanımlıdır. Önceki hesaplar ve e-postalar korunur.",
-  "signature": "IP4Obp1oFSqODpeDOdg8EaAlBnghcuHwnEKwzAxiYSadH3vJ0L9UrVogTn4E6zAQ5S4O3F+rpteeanw4Y9g7AQ=="
+  "version": "0.6.2",
+  "url": "https://github.com/sanverdiahmet2000-ship-it/SIGORIX-Updates/releases/download/mail-v0.6.2/SIGORIX-Mail-Setup-0.6.2.zip",
+  "sha256": "6faf5c9d6a87bb9b9b74c04db2bcd0594b9de46cd683efc1d2eb71a7cac2d09f",
+  "installed_exe_sha256": "bc706514dc20fad5f3926842fa87f7ec6169284f62d5f8d34e9c2da720bb3497",
+  "installer": "SIGORIX-Mail-Kurulum-0.6.2.exe",
+  "notes": "SIGORIX Mail 0.6.2: Eski posta istemcisinin sürümü ile SIGORIX Mail NEXT geliştirme sürümü net ayrıldı. NEXT ön izleme başlatıcısı eklendi. Bağımsız posta sunucusu henüz hazır değildir. Önceki hesaplar ve e-postalar korunur.",
+  "signature": "e5LaprCU2LqRGgifSuWShLAdh/5DND0DDEE58RBRjg5FEWf/u71xsGV1ZleNXQRqkkP751mcabgbqBC62RJfBg=="
 }
